@@ -10,3 +10,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       <App />
     </BrowserRouter>
   </React.StrictMode>,
+) // <-- INI BAGIAN YANG DIPERBAIKI (kurung penutup ditambahkan)
